@@ -3,6 +3,13 @@ debugged by me, with help of chatGPT
 
 Rust Compiler install: get install instructions for Rust from : https://www.rust-lang.org/tools/install
 
-Note: create a new project and install dependencies, by following above page instructions
+INSTRUCTIONS
+
+*create a new project and install dependencies, by following above page instructions
+
+*get servers.json file from https://github.com/FurqanSoftware/node-whois/blob/master/servers.json
+
+*put Cargo.toml in my_project folder
+*put main.rs and servers.json file in the my_project/src folder 
 
 have fun with this little project
